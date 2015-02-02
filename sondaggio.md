@@ -1,15 +1,35 @@
 #Sondaggio pug roma
 
 ##Dove hai trovato questo questionario?
-
 - Facebook
 - Twitter
 - Mailing list
 - Passaparola
 - Altro
 
-## PHP
+## PUG Roma
 
+### A quanti incontri partecipi mediamente ogni anno?
+- 12
+- tra 6 e 12
+- tra 0 e 6
+- non ho mai partecipato
+```
+Se partecipai meno di 6 volte all'anno aiutaci a migliorare i nostri incontri rispondento alle due domande successive. Altrimenti prosegui con la sezione successiva "PHP"
+```
+### Cosa limita la tua partecipazione?
+- Orario e data fissa
+- Luogo degli incontri
+- Argomenti poco interessanti
+- Argomenti troppo complicati
+
+### Cosa vorrei nel programma degli incontri per aumentare il mio livello di partecipazione/implicazione?
+- Più codice (kata, workshop, etc)
+- Argomenti di livello più vario
+- Parlare di altri framework
+- altro
+
+## PHP
 ### Quanti anni di esperienza professionale hai come sviluppatore PHP?
 - non ho esperienza in PHP
 - tra 1 e 3
